@@ -1,2 +1,2 @@
-# Pythin101
+# Python101
 เรียนกับ UncleEngineer
